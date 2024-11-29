@@ -8,7 +8,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.8"
-Shapely = "^1.8.1"
+Shapely = "^2.0.0"
 lxml = "^4.7.1"
 pyproj = "^3.3.0"
 python-dateutil = "^2.8.2"
